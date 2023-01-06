@@ -1,0 +1,18 @@
+tags:
+  get.double: TAG for GET /double
+  post.int: TAG for POST /int
+  put.long: TAG for PUT /long
+
+summary:
+  get.double: SUMMARY for GET /double
+  post.int: SUMMARY for POST /int
+  put.long: SUMMARY for PUT /long
+
+description:
+  get.double: DESCRIPTION for GET /double
+  post.int: DESCRIPTION for POST /int
+  put.long: DESCRIPTION for PUT /long
+
+params:
+  lower.bound: DESCRIPTION for lowerBound param
+  high.bound: DESCRIPTION for highBound param
